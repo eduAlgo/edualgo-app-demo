@@ -12,7 +12,7 @@ import 'package:edualgo_app_demo/presentation/pages/first_screen.dart';
 import 'package:edualgo_app_demo/presentation/pages/index_page.dart';
 import 'package:edualgo_app_demo/dowload.dart';
 
-class Router {
+class Router_gen {
   static const splashPage = '/';
   static const firstPage = '/first-page';
   static const indexPage = '/index-page';
@@ -21,22 +21,22 @@ class Router {
   static Route<dynamic> onGenerateRoute(RouteSettings settings) {
     final args = settings.arguments;
     switch (settings.name) {
-      case Router.splashPage:
+      case Router_gen.splashPage:
         return MaterialPageRoute<dynamic>(
           builder: (_) => SplashPage(),
           settings: settings,
         );
-      case Router.firstPage:
+      case Router_gen.firstPage:
         return MaterialPageRoute<dynamic>(
           builder: (_) => FirstPage(),
           settings: settings,
         );
-      case Router.indexPage:
+      case Router_gen.indexPage:
         return MaterialPageRoute<dynamic>(
           builder: (_) => IndexPage(),
           settings: settings,
         );
-      case Router.downloadPage:
+      case Router_gen.downloadPage:
         return MaterialPageRoute<dynamic>(
           builder: (_) => DownloadPage(),
           settings: settings,
