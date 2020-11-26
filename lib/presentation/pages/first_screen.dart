@@ -58,7 +58,7 @@ class FirstPage extends StatelessWidget {
                           ),
                         ),
                         onPressed: () {
-                          Navigator.pushNamed(context, Router.indexPage);
+                          Navigator.pushNamed(context, Router_gen.indexPage);
                         },
                       ),
                     ),
@@ -89,7 +89,7 @@ class FirstPage extends StatelessWidget {
                           textAlign: TextAlign.center,
                         ),
                         onPressed: () {
-                          Navigator.pushNamed(context, Router.indexPage);
+                          Navigator.pushNamed(context, Router_gen.indexPage);
                         },
                       ),
                     ),
@@ -120,7 +120,7 @@ class FirstPage extends StatelessWidget {
                           textAlign: TextAlign.center,
                         ),
                         onPressed: () {
-                          Navigator.pushNamed(context, Router.indexPage);
+                          Navigator.pushNamed(context, Router_gen.indexPage);
                         },
                       ),
                     ),
@@ -151,7 +151,7 @@ class FirstPage extends StatelessWidget {
                           textAlign: TextAlign.center,
                         ),
                         onPressed: () {
-                          Navigator.pushNamed(context, Router.indexPage);
+                          Navigator.pushNamed(context, Router_gen.indexPage);
                         },
                       ),
                     ),
@@ -182,7 +182,7 @@ class FirstPage extends StatelessWidget {
                           textAlign: TextAlign.center,
                         ),
                         onPressed: () {
-                          Navigator.pushNamed(context, Router.indexPage);
+                          Navigator.pushNamed(context, Router_gen.indexPage);
                         },
                       ),
                     ),
