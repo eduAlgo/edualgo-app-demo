@@ -6,7 +6,7 @@ import 'package:edualgo_app_demo/presentation/pages/splash.dart';
 import '../../dowload.dart';
 
 @MaterialAutoRouter()
-class $Router {
+class $Router_gen {
   @initial
   SplashPage splashPage;
   FirstPage firstPage;
