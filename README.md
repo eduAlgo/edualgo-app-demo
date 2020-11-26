@@ -34,7 +34,9 @@ The objective of this project is to develop an application for android OS, using
 
 ## Want to contribute ?
 
-Have a read to the **contributions.md** file [here](https://github.com/Abhijit2505/edualgo-app-demo/blob/master/CONTRIBUTIONS.md)
+- Join the **Discord** channel <a href="https://discord.gg/48nxC3GKS5">here</a> to discuss about the project ideas, features, proposals and all thing related to <a href="https://njackwinterofcode.github.io/">NJACK Winter Of Code 2020, IIT Patna</a>.
+
+- Have a read to the **contributions.md** file [here](https://github.com/Abhijit2505/edualgo-app-demo/blob/master/CONTRIBUTIONS.md)
 
 ## Tech Stacks
 
