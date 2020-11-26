@@ -6,9 +6,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(
       debugShowCheckedModeBanner: false,
-      onGenerateRoute: Router.onGenerateRoute,
-      initialRoute: Router.splashPage,
-      navigatorKey: Router.navigator.key,
+      onGenerateRoute: Router_gen.onGenerateRoute,
+      initialRoute: Router_gen.splashPage,
+      navigatorKey: Router_gen.navigator.key,
     );
   }
 }
