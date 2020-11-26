@@ -55,7 +55,7 @@ Drawer myDrawer = Drawer(
                 textAlign: TextAlign.center,
               ),
               onTap: () {
-                Navigator.pushNamed(context, Router.downloadPage);
+                Navigator.pushNamed(context, Router_gen.downloadPage);
               },
             ),
           ),
